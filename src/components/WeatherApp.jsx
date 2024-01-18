@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import { WeatherForm } from "./WeatherForm"
 import { WeatherMainInfo } from "./WeatherMainInfo"
-import './WeatherApp.css'
+import './weatherApp.css'
 const key = import.meta.env.VITE_API_KEY
 const url = import.meta.env.VITE_API_URL
 
